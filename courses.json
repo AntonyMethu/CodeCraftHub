@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Python for Data Science",
+        "description": "Learn pandas, NumPy, and scikit-learn",
+        "target_date": "2026-11-15",
+        "status": "Not Started",
+        "created_at": "2026-09-16 07:37:51"
+    },
+    {
+        "id": 2,
+        "name": "Data Science with Python",
+        "description": "Master data manipulation and visualization",
+        "target_date": "2026-12-01",
+        "status": "Not Started",
+        "created_at": "2026-09-16 08:17:06"
+    }
+]
